@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CanvasAPI-react-typescript/static/css/main.073c9b0a.css",
+    "main.js": "/CanvasAPI-react-typescript/static/js/main.ccb88f90.js",
+    "static/js/787.e5791c3e.chunk.js": "/CanvasAPI-react-typescript/static/js/787.e5791c3e.chunk.js",
+    "index.html": "/CanvasAPI-react-typescript/index.html",
+    "main.073c9b0a.css.map": "/CanvasAPI-react-typescript/static/css/main.073c9b0a.css.map",
+    "main.ccb88f90.js.map": "/CanvasAPI-react-typescript/static/js/main.ccb88f90.js.map",
+    "787.e5791c3e.chunk.js.map": "/CanvasAPI-react-typescript/static/js/787.e5791c3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccb88f90.js"
+  ]
+}
