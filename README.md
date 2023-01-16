@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Application
+Simple sine wave animation using React, Typescript, and Canvas API
+
 # Demo Instructions
 ```bash
 npm install
