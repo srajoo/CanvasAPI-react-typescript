@@ -1,7 +1,9 @@
+Simple sine wave animation using React, Typescript, and Canvas API.
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Demo
-Simple sine wave animation using React, Typescript, and Canvas API.
+
 [Live Demo](https://srajoo.github.io/CanvasAPI-react-typescript/)
 
 # Demo Instructions
